@@ -19,7 +19,6 @@
     "redis":"0.10.1",
     "socket.io-redis":"git+ssh://git@github.com:freshdesk/socket.io-redis.git#chrome-extension",
     "when": "3.4.5",
-    "node_optimizer": "",
     "aws-sdk":"2.0.29",
     "restler":"3.2.2",
     "moment":"2.8.4"
